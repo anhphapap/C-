@@ -1,0 +1,86 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace AnimalRace
+{
+    public partial class Form1 : Form
+    {
+        public static Random rand = new Random();
+        public static double time;
+        public static int stop;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        double t1, t2, t3;
+
+        private void btPrepare_Click(object sender, EventArgs e)
+        {
+            t1 = t2 = t3 = 0;
+            timep3.Text = timep2.Text = timep1.Text = "0";
+            lbWinner.Text = "";
+            player1.Left = player2.Left = player3.Left = 0;
+            btRun.Enabled = true;  
+            btPrepare.Enabled = false;
+        }
+
+        private void btRun_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = true;
+            btPrepare.Enabled = true;
+            btRun.Enabled = false;
+            time = -1;
+            stop = 0;
+        }
+
+        
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            
+            
+            
+
+            if (player2.Left + player2.Width > panel2.Width)
+            {
+                if (time == -1 || t2 == time)
+                {
+                    lbWinner.Text += " Crab ";
+                    time = t2;
+                }
+                player2.Left = panel2.Width - player2.Width;
+                stop++;
+            }
+            else if(player2.Left + player2.Width < panel2.Width)
+            {
+                player2.Left += rand.Next(0, 50);
+                t2 += 0.1;
+                timep2.Text = String.Format("{0:0.0}", t2);
+            }
+
+            if (player3.Left + player3.Width > panel3.Width)
+            {
+                if (time == -1 || t3 == time)
+                {
+                    lbWinner.Text += " Hourse ";
+                    time = t3;
+                }
+                player3.Left = panel3.Width - player3.Width;
+                stop++;
+            }
+            else if (player3.Left + player3.Width < panel3.Width)
+            {
+                player3.Left += rand.Next(0, 50);
+                t3 += 0.1;
+                timep3.Text = String.Format("{0:0.0}", t3);
+            }
+            if(stop == 3) timer1.Enabled = false;
+        }
+    }
+}

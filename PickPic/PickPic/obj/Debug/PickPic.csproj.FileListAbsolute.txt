@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\PickPic\PickPic\bin\Debug\PickPic.exe.config
+C:\Users\admin\source\repos\PickPic\PickPic\bin\Debug\PickPic.exe
+C:\Users\admin\source\repos\PickPic\PickPic\bin\Debug\PickPic.pdb
+C:\Users\admin\source\repos\PickPic\PickPic\obj\Debug\PickPic.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PickPic\PickPic\obj\Debug\PickPic.Form1.resources
+C:\Users\admin\source\repos\PickPic\PickPic\obj\Debug\PickPic.Properties.Resources.resources
+C:\Users\admin\source\repos\PickPic\PickPic\obj\Debug\PickPic.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PickPic\PickPic\obj\Debug\PickPic.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PickPic\PickPic\obj\Debug\PickPic.exe
+C:\Users\admin\source\repos\PickPic\PickPic\obj\Debug\PickPic.pdb

@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\ListMove\ListMove\bin\Debug\ListMove.exe.config
+C:\Users\admin\source\repos\ListMove\ListMove\bin\Debug\ListMove.exe
+C:\Users\admin\source\repos\ListMove\ListMove\bin\Debug\ListMove.pdb
+C:\Users\admin\source\repos\ListMove\ListMove\obj\Debug\ListMove.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ListMove\ListMove\obj\Debug\ListMove.Form1.resources
+C:\Users\admin\source\repos\ListMove\ListMove\obj\Debug\ListMove.Properties.Resources.resources
+C:\Users\admin\source\repos\ListMove\ListMove\obj\Debug\ListMove.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ListMove\ListMove\obj\Debug\ListMove.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ListMove\ListMove\obj\Debug\ListMove.exe
+C:\Users\admin\source\repos\ListMove\ListMove\obj\Debug\ListMove.pdb

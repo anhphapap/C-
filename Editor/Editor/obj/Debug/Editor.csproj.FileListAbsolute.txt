@@ -1,0 +1,9 @@
+D:\Editor\Editor\bin\Debug\Editor.exe.config
+D:\Editor\Editor\bin\Debug\Editor.exe
+D:\Editor\Editor\bin\Debug\Editor.pdb
+D:\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+D:\Editor\Editor\obj\Debug\Editor.Form1.resources
+D:\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+D:\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+D:\Editor\Editor\obj\Debug\Editor.exe
+D:\Editor\Editor\obj\Debug\Editor.pdb

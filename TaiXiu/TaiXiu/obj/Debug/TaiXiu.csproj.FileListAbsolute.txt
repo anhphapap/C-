@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\bin\Debug\TaiXiu.exe.config
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\bin\Debug\TaiXiu.exe
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\bin\Debug\TaiXiu.pdb
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\obj\Debug\TaiXiu.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\obj\Debug\TaiXiu.Form1.resources
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\obj\Debug\TaiXiu.Properties.Resources.resources
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\obj\Debug\TaiXiu.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\obj\Debug\TaiXiu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\obj\Debug\TaiXiu.exe
+C:\Users\admin\source\repos\TaiXiu\TaiXiu\obj\Debug\TaiXiu.pdb

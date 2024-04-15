@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\PickPic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{636CC28C-0B51-424A-A311-D286CDD23A31}|PickPic\\PickPic.csproj|C:\\Users\\admin\\source\\repos\\PickPic\\pickpic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{636CC28C-0B51-424A-A311-D286CDD23A31}|PickPic\\PickPic.csproj|solutionrelative:pickpic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636CC28C-0B51-424A-A311-D286CDD23A31}|PickPic\\PickPic.csproj|c:\\users\\admin\\source\\repos\\pickpic\\pickpic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636CC28C-0B51-424A-A311-D286CDD23A31}|PickPic\\PickPic.csproj|solutionrelative:pickpic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PickPic\\PickPic\\Form1.cs",
+              "RelativeDocumentMoniker": "PickPic\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\PickPic\\PickPic\\Form1.cs",
+              "RelativeToolTip": "PickPic\\Form1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwFIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:19:56.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PickPic\\PickPic\\Form1.cs",
+              "RelativeDocumentMoniker": "PickPic\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\PickPic\\PickPic\\Form1.cs [Design]",
+              "RelativeToolTip": "PickPic\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:17:40.771Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

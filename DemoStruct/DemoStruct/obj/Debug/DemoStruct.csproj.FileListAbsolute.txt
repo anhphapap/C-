@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\bin\Debug\DemoStruct.exe.config
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\bin\Debug\DemoStruct.exe
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\bin\Debug\DemoStruct.pdb
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\obj\Debug\DemoStruct.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\obj\Debug\DemoStruct.Form1.resources
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\obj\Debug\DemoStruct.Properties.Resources.resources
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\obj\Debug\DemoStruct.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\obj\Debug\DemoStruct.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\obj\Debug\DemoStruct.exe
+C:\Users\admin\source\repos\DemoStruct\DemoStruct\obj\Debug\DemoStruct.pdb

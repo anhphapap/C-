@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\bin\Debug\AnimalRace.exe.config
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\bin\Debug\AnimalRace.exe
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\bin\Debug\AnimalRace.pdb
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\obj\Debug\AnimalRace.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\obj\Debug\AnimalRace.Form1.resources
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\obj\Debug\AnimalRace.Properties.Resources.resources
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\obj\Debug\AnimalRace.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\obj\Debug\AnimalRace.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\obj\Debug\AnimalRace.exe
+C:\Users\admin\source\repos\AnimalRace\AnimalRace\obj\Debug\AnimalRace.pdb
