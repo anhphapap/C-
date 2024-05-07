@@ -38,6 +38,10 @@ namespace Images
         {
             if(cbPlay.Checked)
             {
+                if (listImages.SelectedItem != null)
+                    temp = listImages.SelectedIndex + 1;
+                else
+                    temp = 0;
                 timer1.Enabled = true;
             }
             else
@@ -65,6 +69,7 @@ namespace Images
                 nameNF += temp;
                 File.Copy(dlg.FileName, nameNF);
                 listImages.Items.Add(temp);
+                files = Directory.GetFiles("Images");
             }
         }
 
@@ -74,8 +79,14 @@ namespace Images
             {
                 String fileName = "Images/";
                 fileName += listImages.SelectedItem.ToString();
-                File.Delete(fileName);
+                FileInfo fi = new FileInfo(fileName);
+                fi.Delete();
             }
+        }
+
+        private void btExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

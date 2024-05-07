@@ -99,5 +99,10 @@ namespace Editor
             Color c = input.SelectionColor;
             color.BackColor = c;
         }
+
+        private void input_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -117,6 +117,7 @@
             this.btExit.TabIndex = 4;
             this.btExit.Text = "Exit";
             this.btExit.UseVisualStyleBackColor = true;
+            this.btExit.Click += new System.EventHandler(this.btExit_Click);
             // 
             // timer1
             // 

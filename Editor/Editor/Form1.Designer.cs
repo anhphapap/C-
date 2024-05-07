@@ -71,6 +71,7 @@
             this.input.TabIndex = 3;
             this.input.Text = "";
             this.input.SelectionChanged += new System.EventHandler(this.input_SelectionChanged);
+            this.input.TextChanged += new System.EventHandler(this.input_TextChanged);
             // 
             // label2
             // 
