@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\RandomImage\RandomImage\bin\Debug\RandomImage.exe.config
+C:\Users\admin\source\repos\RandomImage\RandomImage\bin\Debug\RandomImage.exe
+C:\Users\admin\source\repos\RandomImage\RandomImage\bin\Debug\RandomImage.pdb
+C:\Users\admin\source\repos\RandomImage\RandomImage\obj\Debug\RandomImage.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RandomImage\RandomImage\obj\Debug\RandomImage.Form1.resources
+C:\Users\admin\source\repos\RandomImage\RandomImage\obj\Debug\RandomImage.Properties.Resources.resources
+C:\Users\admin\source\repos\RandomImage\RandomImage\obj\Debug\RandomImage.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\RandomImage\RandomImage\obj\Debug\RandomImage.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RandomImage\RandomImage\obj\Debug\RandomImage.exe
+C:\Users\admin\source\repos\RandomImage\RandomImage\obj\Debug\RandomImage.pdb
