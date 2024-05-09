@@ -1,0 +1,12 @@
+D:\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe
+D:\SimplePaint\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csprojResolveAssemblyReference.cache
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Form1.resources
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FormDrawText.resources
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.Cache
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.exe
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.pdb
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FormImage.resources
+D:\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FormMouse.resources
