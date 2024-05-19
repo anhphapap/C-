@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\OnGK2\OnGK2\bin\Debug\OnGK2.exe.config
+C:\Users\admin\source\repos\OnGK2\OnGK2\bin\Debug\OnGK2.exe
+C:\Users\admin\source\repos\OnGK2\OnGK2\bin\Debug\OnGK2.pdb
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.FormMain.resources
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.FormWelcome.resources
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.Properties.Resources.resources
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.exe
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.pdb
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.FormImage.resources
+C:\Users\admin\source\repos\OnGK2\OnGK2\obj\Debug\OnGK2.FormList.resources
