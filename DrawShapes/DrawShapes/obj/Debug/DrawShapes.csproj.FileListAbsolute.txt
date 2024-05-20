@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe.config
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\bin\Debug\DrawShapes.pdb
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.Form1.resources
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.FormOption.resources
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.Properties.Resources.resources
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.exe
+C:\Users\admin\source\repos\DrawShapes\DrawShapes\obj\Debug\DrawShapes.pdb

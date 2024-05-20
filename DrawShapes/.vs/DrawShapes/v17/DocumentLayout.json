@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\DrawShapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E6DE1F-0BC4-4209-BA9C-FC9BE4D69FAA}|DrawShapes\\DrawShapes.csproj|c:\\users\\admin\\source\\repos\\drawshapes\\drawshapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99E6DE1F-0BC4-4209-BA9C-FC9BE4D69FAA}|DrawShapes\\DrawShapes.csproj|solutionrelative:drawshapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E6DE1F-0BC4-4209-BA9C-FC9BE4D69FAA}|DrawShapes\\DrawShapes.csproj|c:\\users\\admin\\source\\repos\\drawshapes\\drawshapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E6DE1F-0BC4-4209-BA9C-FC9BE4D69FAA}|DrawShapes\\DrawShapes.csproj|solutionrelative:drawshapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DrawShapes\\DrawShapes\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawShapes\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DrawShapes\\DrawShapes\\Form1.cs",
+              "RelativeToolTip": "DrawShapes\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wEQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:01:43.348Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DrawShapes\\DrawShapes\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawShapes\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DrawShapes\\DrawShapes\\Form1.cs [Design]",
+              "RelativeToolTip": "DrawShapes\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:52:07.417Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\OnGK3\OnGK3\bin\Debug\OnGK3.exe.config
+C:\Users\admin\source\repos\OnGK3\OnGK3\bin\Debug\OnGK3.exe
+C:\Users\admin\source\repos\OnGK3\OnGK3\bin\Debug\OnGK3.pdb
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.FormMain.resources
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.FormWelcome.resources
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.Properties.Resources.resources
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.exe
+C:\Users\admin\source\repos\OnGK3\OnGK3\obj\Debug\OnGK3.pdb
