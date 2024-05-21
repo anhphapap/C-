@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\OnGK4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|c:\\users\\admin\\source\\repos\\ongk4\\ongk4\\formstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|solutionrelative:ongk4\\formstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|c:\\users\\admin\\source\\repos\\ongk4\\ongk4\\formstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|solutionrelative:ongk4\\formstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|c:\\users\\admin\\source\\repos\\ongk4\\ongk4\\formstring.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|solutionrelative:ongk4\\formstring.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|C:\\Users\\admin\\source\\repos\\OnGK4\\ongk4\\formdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|solutionrelative:ongk4\\formdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|c:\\users\\admin\\source\\repos\\ongk4\\ongk4\\formdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|solutionrelative:ongk4\\formdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|C:\\Users\\admin\\source\\repos\\OnGK4\\ongk4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|solutionrelative:ongk4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|C:\\Users\\admin\\source\\repos\\OnGK4\\ongk4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C41A688-31C6-4E10-9974-57153A3736D2}|OnGK4\\OnGK4.csproj|solutionrelative:ongk4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormString.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormString.Designer.cs",
+              "RelativeDocumentMoniker": "OnGK4\\FormString.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormString.Designer.cs",
+              "RelativeToolTip": "OnGK4\\FormString.Designer.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAUwNkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:02:06.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormString.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormString.cs",
+              "RelativeDocumentMoniker": "OnGK4\\FormString.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormString.cs",
+              "RelativeToolTip": "OnGK4\\FormString.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAswGEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:56:11.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormString.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormString.cs",
+              "RelativeDocumentMoniker": "OnGK4\\FormString.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormString.cs [Design]",
+              "RelativeToolTip": "OnGK4\\FormString.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:56:01.004Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDraw.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormDraw.cs",
+              "RelativeDocumentMoniker": "OnGK4\\FormDraw.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormDraw.cs",
+              "RelativeToolTip": "OnGK4\\FormDraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:17:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDraw.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormDraw.cs",
+              "RelativeDocumentMoniker": "OnGK4\\FormDraw.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\FormDraw.cs [Design]",
+              "RelativeToolTip": "OnGK4\\FormDraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:17:22.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\Form1.cs",
+              "RelativeDocumentMoniker": "OnGK4\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\Form1.cs",
+              "RelativeToolTip": "OnGK4\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:24:56.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\Form1.cs",
+              "RelativeDocumentMoniker": "OnGK4\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK4\\OnGK4\\Form1.cs [Design]",
+              "RelativeToolTip": "OnGK4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:19:36.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

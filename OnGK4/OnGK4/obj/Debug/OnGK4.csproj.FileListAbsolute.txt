@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\OnGK4\OnGK4\bin\Debug\OnGK4.exe.config
+C:\Users\admin\source\repos\OnGK4\OnGK4\bin\Debug\OnGK4.exe
+C:\Users\admin\source\repos\OnGK4\OnGK4\bin\Debug\OnGK4.pdb
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.Form1.resources
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.Properties.Resources.resources
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.exe
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.pdb
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.FormString.resources
+C:\Users\admin\source\repos\OnGK4\OnGK4\obj\Debug\OnGK4.FormDraw.resources
