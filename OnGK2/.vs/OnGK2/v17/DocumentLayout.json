@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\OnGK2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|c:\\users\\admin\\source\\repos\\ongk2\\ongk2\\formimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8AD835-B436-4AB1-BE89-C553EB727AE0}|OnGK2\\OnGK2.csproj|solutionrelative:ongk2\\formimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,77 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormWelcome.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormWelcome.cs",
-              "RelativeDocumentMoniker": "OnGK2\\FormWelcome.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormWelcome.cs [Design]",
-              "RelativeToolTip": "OnGK2\\FormWelcome.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "FormImage.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormImage.cs",
+              "RelativeDocumentMoniker": "OnGK2\\FormImage.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormImage.cs",
+              "RelativeToolTip": "OnGK2\\FormImage.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwEIAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T08:29:26.744Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormWelcome.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormWelcome.cs",
-              "RelativeDocumentMoniker": "OnGK2\\FormWelcome.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormWelcome.cs",
-              "RelativeToolTip": "OnGK2\\FormWelcome.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T08:28:07.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormList.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormList.cs",
-              "RelativeDocumentMoniker": "OnGK2\\FormList.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormList.cs",
-              "RelativeToolTip": "OnGK2\\FormList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T07:49:20.83Z",
+              "WhenOpened": "2024-05-22T14:19:06.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormList.cs",
-              "RelativeDocumentMoniker": "OnGK2\\FormList.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormList.cs [Design]",
-              "RelativeToolTip": "OnGK2\\FormList.cs [Design]",
+              "Title": "FormImage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormImage.cs",
+              "RelativeDocumentMoniker": "OnGK2\\FormImage.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormImage.cs [Design]",
+              "RelativeToolTip": "OnGK2\\FormImage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T07:38:07.647Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormMain.cs",
-              "RelativeDocumentMoniker": "OnGK2\\FormMain.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormMain.cs",
-              "RelativeToolTip": "OnGK2\\FormMain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T06:13:06.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormMain.cs",
-              "RelativeDocumentMoniker": "OnGK2\\FormMain.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\OnGK2\\OnGK2\\FormMain.cs [Design]",
-              "RelativeToolTip": "OnGK2\\FormMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T06:10:33.149Z",
+              "WhenOpened": "2024-05-22T14:19:02.927Z",
               "EditorCaption": " [Design]"
             }
           ]

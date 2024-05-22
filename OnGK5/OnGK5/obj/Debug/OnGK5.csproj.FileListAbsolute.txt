@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\OnGK5\OnGK5\bin\Debug\OnGK5.exe.config
+C:\Users\admin\source\repos\OnGK5\OnGK5\bin\Debug\OnGK5.exe
+C:\Users\admin\source\repos\OnGK5\OnGK5\bin\Debug\OnGK5.pdb
+C:\Users\admin\source\repos\OnGK5\OnGK5\obj\Debug\OnGK5.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OnGK5\OnGK5\obj\Debug\OnGK5.Form1.resources
+C:\Users\admin\source\repos\OnGK5\OnGK5\obj\Debug\OnGK5.Properties.Resources.resources
+C:\Users\admin\source\repos\OnGK5\OnGK5\obj\Debug\OnGK5.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\OnGK5\OnGK5\obj\Debug\OnGK5.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OnGK5\OnGK5\obj\Debug\OnGK5.exe
+C:\Users\admin\source\repos\OnGK5\OnGK5\obj\Debug\OnGK5.pdb

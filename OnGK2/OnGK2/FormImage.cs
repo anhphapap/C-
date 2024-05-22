@@ -31,11 +31,59 @@ namespace OnGK2
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            if(pictureBox1.Left < - pictureBox1.Width) {
-                pictureBox1.Left = ClientRectangle.Width;
+            switch (move)
+            {
+                case 0:
+                {
+                    if (pictureBox1.Left < -pictureBox1.Width)
+                    {
+                        pictureBox1.Left = ClientRectangle.Width;
+                    }
+                    pictureBox1.Left -= 10;
+                }
+                break;
+                case 2:
+                {
+                    if (pictureBox1.Left >= ClientRectangle.Width)
+                    {
+                        pictureBox1.Left =  -pictureBox1.Width;
+                    }
+                    pictureBox1.Left += 10;
+                }
+                break;
+                case 1:
+                {
+                    if (pictureBox1.Top <= -pictureBox1.Height)
+                    {
+                        pictureBox1.Top = ClientRectangle.Height;
+                    }
+                    pictureBox1.Top -= 10;
+                }
+                break;
+                case 3:
+                {
+                    if (pictureBox1.Top >= ClientRectangle.Height)
+                    {
+                        pictureBox1.Top = -pictureBox1.Height;
+                    }
+                    pictureBox1.Top += 10;
+                }
+                break;
             }
-            pictureBox1.Left -= 10;
+        }
 
+        int move = 0;
+
+        protected override bool ProcessDialogKey(Keys keyData)
+        {
+            switch (keyData)
+            {
+                case Keys.Up: move = 1; break;
+                case Keys.Down: move = 3; break;
+                case Keys.Left: move = 0; break;
+                case Keys.Right: move = 2; break;
+            }
+            return true;
         }
     }
 }
